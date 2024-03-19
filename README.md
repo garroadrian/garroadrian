@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hola! Soy Adrián Garro 👋
+Estudiante de Ingeniería Informática con experiencia práctica en proyectos académicos. Conocimiento en programación, desarrollo de Software y resolución de problemas. Orientado a apre4nder y crecer profesionalmente.
 
+#### Tecnologías:
 <!--
 **garroadrian/garroadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
