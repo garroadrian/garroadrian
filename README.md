@@ -14,6 +14,6 @@ Estudiante de Ingeniería Informática con experiencia práctica en proyectos ac
 - Visual Studio 2022
 - SQL Server Management Studio
 
-### Contacto
+### 📱 Contacto
 - 🔗 LinkedIn: linkedin.com/in/adrian-garro-salazar
 - ✉ Email: agarrosalazar@gmail.com
