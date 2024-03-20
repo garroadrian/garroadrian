@@ -1,27 +1,19 @@
 ### Hola! Soy Adrián Garro 👋
 Estudiante de Ingeniería Informática con experiencia práctica en proyectos académicos. Conocimiento en programación, desarrollo de Software y resolución de problemas. Orientado a aprender y crecer profesionalmente. 👨‍💻
 
-#### Tecnologías:
+### 💻 Tecnologías
 - Python
 - C#
--  SQL Server
+- SQL Server
 - HTML
 - CSS
 - JavaScript
 
+### 🔧 Herramientas
+- Visual Studio Code
+- Visual Studio 2022
+- SQL Server Management Studio
 
-
-<!--
-**garroadrian/garroadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto
+- 🔗 LinkedIn: linkedin.com/in/adrian-garro-salazar
+- ✉ Email: agarrosalazar@gmail.com
